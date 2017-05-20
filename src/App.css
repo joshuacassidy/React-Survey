@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.App-header {
+  background-color: #222;
+  height: 100px;
+  padding: 20px;
+  color: white;
+}
+.Header-text{
+  padding: 0.5em 0em;
+}
+.Questions{
+  padding-left: 2em;
+}
+.App-intro {
+  font-size: large;
+}
+.container{
+  width:650px;
+  margin:auto;
+  text-align:left;
+}
+input[type='text']{
+ padding: 4px;
+   font-size: large;
+ width:350px;
+ height: 30px;
+ border-radius: 5px;
+ border: #ccc solid 1px;
+}
+
+form div{
+  margin-bottom:15px;
+  line-height:2.3em;
+}
+.Submit-button{
+  margin: 0 auto;
+  text-align:center;
+}
